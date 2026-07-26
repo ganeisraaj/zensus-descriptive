@@ -37,13 +37,6 @@ Dieses Projekt nutzt den Zensus 2022, um Bildungs- und Arbeitsmarktvariablen in 
 
 ---
 
-├── report.pdf        # English-language report
-├── analysis.R        # R script (data cleaning, visualisation, analysis)
-└── data/
-    ├── zensus2022_wide.csv
-    └── zensus2022_long.csv
-```
-
 ---
 
 ## Software
