@@ -37,7 +37,6 @@ Dieses Projekt nutzt den Zensus 2022, um Bildungs- und Arbeitsmarktvariablen in 
 
 ---
 
----
 
 ## Software
 
